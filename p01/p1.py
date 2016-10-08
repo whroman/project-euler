@@ -6,3 +6,5 @@ def foo(limit):
     nSum = sum(numbers)
 
     return nSum
+
+print foo(1000)
